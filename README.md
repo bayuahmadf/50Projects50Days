@@ -16,12 +16,15 @@ Day 14: JavaScript Game - Develop a simple game using vanilla JavaScript.
 Day 27: React Component Library - Build reusable components with React.
 Day 36: API Integration - Connect to real-world APIs to fetch and display data.
 Day 50: Portfolio Website - Showcase all 50 projects in a stunning portfolio.
+
 Why This Repository?
 Inspiration: Get inspired by a variety of project ideas and coding challenges.
 Learning: Explore the code to understand how these projects were built.
 Contribution: Feel free to fork and contribute your own versions or improvements.
 Connect: Connect with fellow developers who share a passion for coding.
+
 How to Use
+
 Clone this repository to your local machine using git clone.
 Navigate to each project's directory and explore the code.
 Run projects locally by following the provided instructions in each project's README.
@@ -32,6 +35,7 @@ day-01/: Day 1 project details and code.
 day-02/: Day 2 project details and code.
 ...
 day-50/: Day 50 project details and code.
+
 Contributions
 Contributions and improvements are always welcome! If you have your own creative take on any project or spot an issue, please feel free to open an issue or submit a pull request.
 
